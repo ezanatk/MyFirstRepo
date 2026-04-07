@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Ezana Tafesse. I am currently a student. I am interested in business, finance, and technology, and I enjoy learning how digital platforms work.
+
+I created this repository as part of my learning journey to understand GitHub and version control. I am excited to build more projects and improve my skills.
